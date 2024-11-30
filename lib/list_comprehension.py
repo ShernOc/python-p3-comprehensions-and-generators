@@ -11,6 +11,4 @@ def make_exclamation(sentence_list):
 
     return [n + "!" for n in sentence_list]
 
-
-
 print (make_exclamation("I like computers"))
